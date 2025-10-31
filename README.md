@@ -8,7 +8,7 @@
 ## ⚙️ Ishga tushirish
 1. githubdan clone qilib olish
 2. OpenServer domains papkaga joylash
-3. ngrok orqali localhost'dan public holatga o'tkazish (webhook uchun)
+3. ngrok yuklab olinadi va localhost'dan public holatga o'tkazish (webhook uchun)
 
 ## ⚙️ Ishga tushirish
 1. Brauzerda url ochiladi - GET yuboriladi va part1 code olinadi
